@@ -1,2 +1,2 @@
 # Hola-Universo
-Es un sitio Web es para probar el funcionamiento de mis repositorio en GitHub 
+Es un sitio web es para probar el funcionamiento de mis repositorios en GitHub 
